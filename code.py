@@ -2,8 +2,7 @@ import pygame
 from pygame import mixer
 import math
 import random
-import sys
-import os
+
 
 
 
